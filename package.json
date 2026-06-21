@@ -1,6 +1,0 @@
-{
-  "name": "codepath",
-  "version": "1.0.0",
-  "private": true,
-  "description": "CodePath - プログラミング学習サービス（Vercel + Gemini構成）"
-}
